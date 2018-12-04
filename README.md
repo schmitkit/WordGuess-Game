@@ -1,2 +1,2 @@
 # WordGuessGame
-Week 3: Javascript - Word Guess
+W3: Javascript - Word Guess
